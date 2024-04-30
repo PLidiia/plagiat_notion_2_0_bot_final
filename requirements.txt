@@ -1,0 +1,13 @@
+aiogram
+aiohttp
+requests
+python-dotenv
+SQLALCHEMY
+APScHEDULER
+aiosqlite
+gitHub
+pandas
+matplotlib
+
+
+
