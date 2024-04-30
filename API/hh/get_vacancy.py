@@ -4,7 +4,7 @@ from typing import Union
 
 import requests
 
-from API.weather_API.get_location_user_computer import get_location
+from API.weather.get_location_user_computer import get_location
 
 
 def get_areas_info() -> List[List[str]]:
